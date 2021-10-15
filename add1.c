@@ -2,6 +2,6 @@ int main()
 {
 int a,b,c;
 b=a+c
-return 0
+return 0;
 
 }
